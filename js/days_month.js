@@ -39,7 +39,7 @@ switch(MONTH){
     case '11':
         console.log(`Noviembre tiene 30 días`)
     break
-    case '4':
+    case '12':
         console.log(`Diciembre tiene 31 días`)
     break
     default:
